@@ -1,0 +1,5 @@
+package com.gabo.ble.viewmodel.permissions
+
+enum class PermissionsState {
+    READY, BLUETOOTH_NOT_AVAILABLE, LOCATION_PERMISSION_NOT_GRANTED, BLUETOOTH_NOT_ENABLED, LOCATION_SERVICES_NOT_ENABLED
+}

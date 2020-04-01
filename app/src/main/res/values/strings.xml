@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PoC</string>
+    <string name="register_screen_title_text">Registration</string>
+    <string name="register_screen_full_name_hint">fullname</string>
+    <string name="register_screen_identification_hint">identification</string>
+    <string name="register_screen_phone_number_hint">phone number</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="register_button_text">Register</string>
+    <string name="error_registering_receiver">error when registering receiver</string>
+    <string name="permissions_screen_title">Granting Permissions</string>
+    <string name="error_bluetooth_disabled">Bluetooth needs to be enabled to continue</string>
+    <string name="error_bluetooth_not_supported">Bluetooth Not Supported</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="msg_permissions_screen">You need to enable Bluetooth and Location Services to collect information that will help out to know if you had social contact with new COVID-19 cases.</string>
+    <string name="monitor_screen_title_text">Collecting Information</string>
+
+    <string name="prefix_device_name">gorila-</string>
+    <string name="stop_button_text">Stop</string>
+    <string name="start_button_text">Start</string>
+    <string name="error_field_empty">field empty</string>
+
+
+</resources>
