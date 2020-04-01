@@ -1,2 +1,2 @@
-# tracing-coronas
+# Tracing Coronas
 Sometimes It's hard to meet social distancing, or physical distancing, so if we need to go out to do something really important then TracingCoronas allow us to keep a trace of  people how you had close contact when you went out. So, if any of these persons get symptoms of Covid-19 Health authorities will be able to know if you could be exposed to that person and take control of that situation.
