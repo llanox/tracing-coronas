@@ -10,7 +10,7 @@ git clone git@github.com:googlesamples/android-architecture.git
 ```
  2. Open the project with Android Studio 4.+
  3. Create a Firestore database. See [here](https://firebase.google.com/docs/firestore/quickstart#create)
- 4. After that process of configuration, you get a generated file google-services.json that you need to put into the app folder.
+ 4. After that process of database creation and configuration, you get a generated file google-services.json that you need to put into the app folder.
  5. Build and Deploy.
 
 # How to it works?
