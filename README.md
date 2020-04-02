@@ -10,7 +10,7 @@ git clone git@github.com:googlesamples/android-architecture.git
 ```
  2. Open the project with Android Studio 4.+
  3. Create a Firestore database. See [here](https://firebase.google.com/docs/firestore/quickstart#create)
- 4. After that proccess of configuration you get a generated file google-services.json that you need to put into the app folder.
+ 4. After that process of configuration, you get a generated file google-services.json that you need to put into the app folder.
  5. Build and Deploy.
 
 # How to it works?
@@ -25,6 +25,7 @@ Monitoring: The app is scanning and identifying devices running that same applic
 
 
 # TODO
+
 - Finish up the documentation
 - Test on a wide range of devices.
 - Figure out how to make a query in the firestore database to find people who were close to a specific person.
