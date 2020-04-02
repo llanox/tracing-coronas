@@ -44,6 +44,7 @@ Also, in the monitoring screen, there's a debug window to see on the fly the inf
 - [ ] Figure out how to make a query in the firestore database to find people who were close to a specific person.
 - [ ] The app is sending much information to the server, and that's quickly exceeding the free quota of the firebase database. Is out there any database with a bigger free quota?
 - [ ] Find developers and smart people who have good ideas and motivation to help to build this project.
+- [ ] Explore how to support or integrate it with similar initiatives such as https://covid-watch.org/ and https://www.coepi.org
 
 
 ### License
