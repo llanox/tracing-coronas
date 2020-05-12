@@ -6,7 +6,7 @@ Sometimes It's hard to meet social distancing or physical distancing, so if we n
 
  1. Clone the repo
 ```
-git clone git@github.com:googlesamples/android-architecture.git
+git clone git@github.com:llanox/tracing-coronas.git
 ```
  2. Open the project with Android Studio 4.+
  3. Create a Firestore database. See [here](https://firebase.google.com/docs/firestore/quickstart#create)
